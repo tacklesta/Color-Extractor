@@ -3,4 +3,4 @@ Color Identification script which can be used to detect the RGB values of a colo
 
 To run the script just type the following command in the command line:
 
-python color_detection -i "PATH OF IMAGE"
+python color_detection.py -i "PATH OF IMAGE"
