@@ -1,6 +1,7 @@
 # Color-Extractor
-Color Identification script which can be used to detect the RGB values of a color composition  in an image by passing the path of image in the command line.
 
-To run the script type the following command in the command line:
+This is a simple color identification script which I created in order to extract RGB value of a specific color in an image. It can be very handy if you are facing difficulty in identifying a color in a development project.
 
-python color_detection.py -i "PATH OF IMAGE"
+To run this script type the following command in the command line:
+
+                                            python color_detection.py -i "PATH OF YOUR IMAGE"
